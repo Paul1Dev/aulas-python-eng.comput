@@ -1,2 +1,3 @@
 # aulas-python-eng.comput
-Códigos criados durante as aulas
+Este repositório sera utilizado 
+para guardar as aulas python
